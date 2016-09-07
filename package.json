@@ -1,0 +1,21 @@
+{
+  "name": "povezaticontroller",
+  "version": "1.0.0",
+  "description": "software that runs smart system control station",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xbee",
+    "raspberry",
+    "pi",
+    "iot"
+  ],
+  "author": "Trevor Snodgrass",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^4.0.1",
+    "xbee-api": "^0.4.3"
+  }
+}
